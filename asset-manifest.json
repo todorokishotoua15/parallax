@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96c1fee3.css",
+    "main.js": "/static/js/main.2ca557de.js",
+    "static/js/787.747d6d52.chunk.js": "/static/js/787.747d6d52.chunk.js",
+    "static/media/JT.jpg": "/static/media/JT.8d69af0470d611692eb1.jpg",
+    "static/media/DoctorStrangeBanner.jpg": "/static/media/DoctorStrangeBanner.dbfb2e1d3c106375ad2c.jpg",
+    "static/media/card.png": "/static/media/card.541524e793939d01c374.png",
+    "static/media/logo.png": "/static/media/logo.bf006b6ba78fc073cfc2.png",
+    "static/media/FantasticBeasts.jpg": "/static/media/FantasticBeasts.45cacadf08f7247ea83d.jpg",
+    "static/media/batman_banner.jpg": "/static/media/batman_banner.9de6bfb539a6c4de202f.jpg",
+    "static/media/SOD.jpg": "/static/media/SOD.cd79c67aab07de829976.jpg",
+    "static/media/YN.jpg": "/static/media/YN.88a3037c3127b452d091.jpg",
+    "static/media/SV.jfif": "/static/media/SV.a96796c7835b1682aece.jfif",
+    "index.html": "/index.html",
+    "main.96c1fee3.css.map": "/static/css/main.96c1fee3.css.map",
+    "main.2ca557de.js.map": "/static/js/main.2ca557de.js.map",
+    "787.747d6d52.chunk.js.map": "/static/js/787.747d6d52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c1fee3.css",
+    "static/js/main.2ca557de.js"
+  ]
+}
